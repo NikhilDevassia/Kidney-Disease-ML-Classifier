@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nikhil/Projects/Kidney-Disease-ML-Classifier/mlruns/0/11a8017c639545828e7c935271b0537e/artifacts
+end_time: 1699164286145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11a8017c639545828e7c935271b0537e
+run_name: stylish-moose-102
+run_uuid: 11a8017c639545828e7c935271b0537e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699164281258
+status: 3
+tags: []
+user_id: nikhil
