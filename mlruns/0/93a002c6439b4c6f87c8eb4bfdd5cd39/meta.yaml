@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nikhil/Projects/Kidney-Disease-ML-Classifier/mlruns/0/93a002c6439b4c6f87c8eb4bfdd5cd39/artifacts
+end_time: 1701171598929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93a002c6439b4c6f87c8eb4bfdd5cd39
+run_name: luminous-dog-526
+run_uuid: 93a002c6439b4c6f87c8eb4bfdd5cd39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701171592796
+status: 3
+tags: []
+user_id: nikhil

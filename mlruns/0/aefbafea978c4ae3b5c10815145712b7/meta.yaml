@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nikhil/Projects/Kidney-Disease-ML-Classifier/mlruns/0/aefbafea978c4ae3b5c10815145712b7/artifacts
+end_time: 1701171700429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aefbafea978c4ae3b5c10815145712b7
+run_name: delicate-snake-553
+run_uuid: aefbafea978c4ae3b5c10815145712b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701171693918
+status: 3
+tags: []
+user_id: nikhil
