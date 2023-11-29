@@ -5,7 +5,7 @@ This machine learning project aims to detect kidney cancer from X-ray images usi
 ##### Train
 https://github.com/NikhilDevassia/Kidney-Disease-ML-Classifier/assets/102344001/31d87a2a-2f57-4e82-869d-18626942093f
 #### Predict
-
+[kidney disease predict.webm](https://github.com/NikhilDevassia/Kidney-Disease-ML-Classifier/assets/102344001/a5528aaa-bb4a-4644-99c6-88dce29125e1)
 # How to run?
 ### STEPS:
 
